@@ -61,3 +61,16 @@ $RECYCLE.BIN/
 *.msi
 *.msm
 *.msp
+
+
+# Unity .gitignore file.
+.DS_Store
+obj
+Library
+Library/*
+*.csproj
+*.sln
+*.userprefs
+Temp
+*.pidb
+Build

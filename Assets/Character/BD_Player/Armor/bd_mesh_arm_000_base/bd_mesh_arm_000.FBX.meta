@@ -1,0 +1,139 @@
+fileFormatVersion: 2
+guid: da036c3988e09aa4aa5ae81368c90fe9
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: Bip01 R Finger21
+    100002: bd_mesh_arm_tor_001
+    100004: bd_mesh_arm_hea_001
+    100006: Bip01 Head
+    100008: Bip01 L Finger21
+    100010: Bip01 L Finger11
+    100012: bd_mesh_arm_leg_001
+    100014: Bip01 R Clavicle
+    100016: Bip01 Spine1
+    100018: Bip01 L Thigh
+    100020: Bip01 R Calf
+    100022: Bip01 R Finger11
+    100024: Bip01 R Hand
+    100026: weapon_point
+    100028: chr_ground_point
+    100030: Bip01 L Finger2
+    100032: Bip01
+    100034: Bip01 L UpperArm
+    100036: Bip01 R UpperArm
+    100038: Bip01 R Finger2
+    100040: Bip01 R Forearm
+    100042: Bip01 L Clavicle
+    100044: //RootNode
+    100046: Bip01 R Thigh
+    100048: Bip01 R Finger1
+    100050: Bip01 R Foot
+    100052: Bip01 Spine
+    100054: Bip01 L Foot
+    100056: Bip01 L Calf
+    100058: Bip01 Pelvis
+    100060: Bip01 L Forearm
+    100062: Bip01 L Finger1
+    100064: Bip01 L Hand
+    100066: clan_mash
+    400000: Bip01 R Finger21
+    400002: bd_mesh_arm_tor_001
+    400004: bd_mesh_arm_hea_001
+    400006: Bip01 Head
+    400008: Bip01 L Finger21
+    400010: Bip01 L Finger11
+    400012: bd_mesh_arm_leg_001
+    400014: Bip01 R Clavicle
+    400016: Bip01 Spine1
+    400018: Bip01 L Thigh
+    400020: Bip01 R Calf
+    400022: Bip01 R Finger11
+    400024: Bip01 R Hand
+    400026: weapon_point
+    400028: chr_ground_point
+    400030: Bip01 L Finger2
+    400032: Bip01
+    400034: Bip01 L UpperArm
+    400036: Bip01 R UpperArm
+    400038: Bip01 R Finger2
+    400040: Bip01 R Forearm
+    400042: Bip01 L Clavicle
+    400044: //RootNode
+    400046: Bip01 R Thigh
+    400048: Bip01 R Finger1
+    400050: Bip01 R Foot
+    400052: Bip01 Spine
+    400054: Bip01 L Foot
+    400056: Bip01 L Calf
+    400058: Bip01 Pelvis
+    400060: Bip01 L Forearm
+    400062: Bip01 L Finger1
+    400064: Bip01 L Hand
+    400066: clan_mash
+    4300000: bd_mesh_arm_hea_000
+    4300002: bd_mesh_arm_tor_000
+    4300004: bd_mesh_arm_leg_000
+    4300006: bd_mesh_arm_hea_001
+    4300008: bd_mesh_arm_tor_001
+    4300010: bd_mesh_arm_leg_001
+    4300012: clan_mash
+    11100000: //RootNode
+    13700000: bd_mesh_arm_tor_001
+    13700002: bd_mesh_arm_hea_001
+    13700004: bd_mesh_arm_leg_001
+    13700006: clan_mash
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  additionalBone: 0
+  userData: 
